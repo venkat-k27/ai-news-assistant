@@ -1,36 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-internal-playbook-for-tackling-big-techs-ai-chip-buildout/",
-      "title": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
-      "sent_at": "2026-08-31T19:23:17.739981+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "sent_at": "2026-08-31T19:23:17.739981+00:00"
-    },
-    {
-      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
-      "sent_at": "2026-08-31T19:23:17.739981+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "sent_at": "2026-09-01T17:09:09.941433+00:00"
-    },
-    {
-      "link": "https://huggingface.co/blog/webgpu-kernels",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "sent_at": "2026-09-01T17:09:09.941433+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "sent_at": "2026-09-01T17:09:09.941433+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
       "sent_at": "2026-09-02T16:59:47.839673+00:00"
@@ -194,6 +164,21 @@
       "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tricks-humans/",
       "title": "Microsoft\u2019s new AI \u2018code of conduct\u2019 tells models not to hack systems or trick humans",
       "sent_at": "2026-09-14T18:20:52.579660+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-sayss",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "sent_at": "2026-09-15T17:28:31.980742+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "title": "Salesforce and Nvidia\u2019s new reasoning model is everything the AI labs should fear",
+      "sent_at": "2026-09-15T17:28:31.980742+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "sent_at": "2026-09-15T17:28:31.980742+00:00"
     }
   ]
 }
