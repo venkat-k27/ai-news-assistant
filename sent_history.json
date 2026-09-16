@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "sent_at": "2026-09-02T16:59:47.839673+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "title": "OpenAI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
-      "sent_at": "2026-09-02T16:59:47.839673+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "sent_at": "2026-09-02T16:59:47.839673+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
       "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
       "sent_at": "2026-09-04T16:53:59.629315+00:00"
@@ -179,6 +164,21 @@
       "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
       "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
       "sent_at": "2026-09-15T17:28:31.980742+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "title": "Your AI agents can now control your Google Home devices",
+      "sent_at": "2026-09-16T17:27:57.263183+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "sent_at": "2026-09-16T17:27:57.263183+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "sent_at": "2026-09-16T17:27:57.263183+00:00"
     }
   ]
 }
