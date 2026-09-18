@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "sent_at": "2026-09-04T16:53:59.629315+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "sent_at": "2026-09-04T16:53:59.629315+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "title": "Crusoe reportedly raises $3B at a $30B valuation",
-      "sent_at": "2026-09-04T16:53:59.629315+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "sent_at": "2026-09-05T15:46:53.916569+00:00"
@@ -194,6 +179,21 @@
       "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
       "title": "Covert uploads and megalomania: OpenAI details new 'misaligned' agent incidents",
       "sent_at": "2026-09-17T17:28:12.191047+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropic-claude-to-hack-into-openai/",
+      "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+      "sent_at": "2026-09-18T16:56:16.679786+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
+      "sent_at": "2026-09-18T16:56:16.679786+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "sent_at": "2026-09-18T16:56:16.679786+00:00"
     }
   ]
 }
