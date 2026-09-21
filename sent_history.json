@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "sent_at": "2026-09-07T18:06:22.823277+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "sent_at": "2026-09-07T18:06:22.823277+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "title": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business",
-      "sent_at": "2026-09-07T18:06:22.823277+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
       "title": "Mistral raises \u20ac3B as sovereign AI becomes big business",
       "sent_at": "2026-09-08T17:04:29.219720+00:00"
@@ -194,6 +179,21 @@
       "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
       "title": "Petlibro\u2019s new AI-powered feeder is a game changer for multi-cat homes",
       "sent_at": "2026-09-20T16:41:19.014071+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
+      "sent_at": "2026-09-21T18:28:44.151182+00:00"
+    },
+    {
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "sent_at": "2026-09-21T18:28:44.151182+00:00"
+    },
+    {
+      "link": "https://openai.com/index/v7",
+      "title": "How V7 gives AI agents institutional memory",
+      "sent_at": "2026-09-21T18:28:44.151182+00:00"
     }
   ]
 }
