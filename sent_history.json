@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "sent_at": "2026-09-17T17:28:12.191047+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "sent_at": "2026-09-17T17:28:12.191047+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
-      "title": "Covert uploads and megalomania: OpenAI details new 'misaligned' agent incidents",
-      "sent_at": "2026-09-17T17:28:12.191047+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropic-claude-to-hack-into-openai/",
       "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
       "sent_at": "2026-09-18T16:56:16.679786+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
       "title": "OpenAI launches Dots, its bubbly agentic avatar",
       "sent_at": "2026-09-30T18:16:46.044162+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "sent_at": "2026-10-01T18:41:50.181224+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "title": "Flow Engineering, Backed by Sequoia at a $750M Valuation, Brings AI Agents to Hardware Design",
+      "sent_at": "2026-10-01T18:41:50.181224+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "title": "Amazon Web Services' Strand Labs Releases Strands Decider 2B",
+      "sent_at": "2026-10-01T18:41:50.181224+00:00"
     }
   ]
 }
