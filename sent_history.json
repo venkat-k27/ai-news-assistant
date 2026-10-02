@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropic-claude-to-hack-into-openai/",
-      "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
-      "sent_at": "2026-09-18T16:56:16.679786+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
-      "sent_at": "2026-09-18T16:56:16.679786+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "sent_at": "2026-09-18T16:56:16.679786+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
       "title": "Meta\u2019s Muse hits Mac, letting the AI take actions on your computer",
       "sent_at": "2026-09-19T16:14:00.088718+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
       "title": "Amazon Web Services' Strand Labs Releases Strands Decider 2B",
       "sent_at": "2026-10-01T18:41:50.181224+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/02/apple-says-it-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
+      "sent_at": "2026-10-02T18:12:45.960223+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "sent_at": "2026-10-02T18:12:45.960223+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "title": "With most information hidden, the game Stratego had stumped AI\u2014until now",
+      "sent_at": "2026-10-02T18:12:45.960223+00:00"
     }
   ]
 }
