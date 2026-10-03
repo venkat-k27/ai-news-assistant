@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "title": "Meta\u2019s Muse hits Mac, letting the AI take actions on your computer",
-      "sent_at": "2026-09-19T16:14:00.088718+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-      "sent_at": "2026-09-19T16:14:00.088718+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "sent_at": "2026-09-19T16:14:00.088718+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
       "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
       "sent_at": "2026-09-20T16:41:19.014071+00:00"
@@ -209,6 +194,21 @@
       "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
       "title": "With most information hidden, the game Stratego had stumped AI\u2014until now",
       "sent_at": "2026-10-02T18:12:45.960223+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
+      "sent_at": "2026-10-03T16:59:05.237839+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "sent_at": "2026-10-03T16:59:05.237839+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "sent_at": "2026-10-03T16:59:05.237839+00:00"
     }
   ]
 }
