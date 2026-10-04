@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
-      "sent_at": "2026-09-20T16:41:19.014071+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "sent_at": "2026-09-20T16:41:19.014071+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "title": "Petlibro\u2019s new AI-powered feeder is a game changer for multi-cat homes",
-      "sent_at": "2026-09-20T16:41:19.014071+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
       "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
       "sent_at": "2026-09-21T18:28:44.151182+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
       "title": "Meta wants your next gadget to be Muse-infused",
       "sent_at": "2026-10-03T16:59:05.237839+00:00"
+    },
+    {
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "sent_at": "2026-10-04T17:17:34.827327+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "sent_at": "2026-10-04T17:17:34.827327+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+      "sent_at": "2026-10-04T17:17:34.827327+00:00"
     }
   ]
 }
