@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
-      "sent_at": "2026-09-21T18:28:44.151182+00:00"
-    },
-    {
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "sent_at": "2026-09-21T18:28:44.151182+00:00"
-    },
-    {
-      "link": "https://openai.com/index/v7",
-      "title": "How V7 gives AI agents institutional memory",
-      "sent_at": "2026-09-21T18:28:44.151182+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
       "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
       "sent_at": "2026-09-22T17:31:38.286705+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
       "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
       "sent_at": "2026-10-04T17:17:34.827327+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "sent_at": "2026-10-05T20:57:57.463775+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "title": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
+      "sent_at": "2026-10-05T20:57:57.463775+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "title": "OpenAI will start watermarking ChatGPT\u2019s text in the EU",
+      "sent_at": "2026-10-05T20:57:57.463775+00:00"
     }
   ]
 }
