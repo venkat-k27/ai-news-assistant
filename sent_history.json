@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "sent_at": "2026-09-22T17:31:38.286705+00:00"
-    },
-    {
-      "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "title": "Transformers now runs llama.cpp quants",
-      "sent_at": "2026-09-22T17:31:38.286705+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "sent_at": "2026-09-22T17:31:38.286705+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
       "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
       "sent_at": "2026-09-23T17:42:34.413091+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "title": "OpenAI will start watermarking ChatGPT\u2019s text in the EU",
       "sent_at": "2026-10-05T20:57:57.463775+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "title": "Mistral\u2019s new 1T model aims to leapfrog closed and open rivals",
+      "sent_at": "2026-10-06T18:46:07.731875+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "sent_at": "2026-10-06T18:46:07.731875+00:00"
+    },
+    {
+      "link": "https://openai.com/index/atlassian-partnership",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "sent_at": "2026-10-06T18:46:07.731875+00:00"
     }
   ]
 }
