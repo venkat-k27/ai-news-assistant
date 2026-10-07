@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "sent_at": "2026-09-23T17:42:34.413091+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "sent_at": "2026-09-23T17:42:34.413091+00:00"
-    },
-    {
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "sent_at": "2026-09-23T17:42:34.413091+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-lang/",
       "title": "Australia to investigate if OpenAI hack of government health website broke the law",
       "sent_at": "2026-09-24T17:44:36.087389+00:00"
@@ -209,6 +194,21 @@
       "link": "https://openai.com/index/atlassian-partnership",
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "sent_at": "2026-10-06T18:46:07.731875+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "sent_at": "2026-10-07T19:12:19.971155+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "title": "Google\u2019s new SynthID website can identify AI-generated media",
+      "sent_at": "2026-10-07T19:12:19.971155+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "title": "How AI decision models could change content moderation",
+      "sent_at": "2026-10-07T19:12:19.971155+00:00"
     }
   ]
 }
