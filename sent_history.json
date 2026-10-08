@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-lang/",
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "sent_at": "2026-09-24T17:44:36.087389+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "sent_at": "2026-09-24T17:44:36.087389+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-      "title": "Google tests letting Gemini call businesses for you",
-      "sent_at": "2026-09-24T17:44:36.087389+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
       "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
       "sent_at": "2026-09-25T17:46:12.952966+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
       "title": "How AI decision models could change content moderation",
       "sent_at": "2026-10-07T19:12:19.971155+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "sent_at": "2026-10-08T19:08:52.033891+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "title": "Goodfire says its new \u2018inside-out\u2019 monitors catch rogue AI agents at a fraction of the cost",
+      "sent_at": "2026-10-08T19:08:52.033891+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "sent_at": "2026-10-08T19:08:52.033891+00:00"
     }
   ]
 }
