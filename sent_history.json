@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "sent_at": "2026-09-28T20:00:37.944881+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "sent_at": "2026-09-28T20:00:37.944881+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "sent_at": "2026-09-28T20:00:37.944881+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
       "title": "AMD will acquire Fei-Fei Li\u2019s World Labs for $8.2 billion",
       "sent_at": "2026-09-29T18:27:32.271280+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "title": "Here are the top AI agents that can live in your text messages",
       "sent_at": "2026-10-11T17:54:13.804803+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "sent_at": "2026-10-12T21:33:17.039348+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "sent_at": "2026-10-12T21:33:17.039348+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "sent_at": "2026-10-12T21:33:17.039348+00:00"
     }
   ]
 }
