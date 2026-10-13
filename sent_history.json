@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "title": "AMD will acquire Fei-Fei Li\u2019s World Labs for $8.2 billion",
-      "sent_at": "2026-09-29T18:27:32.271280+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "sent_at": "2026-09-29T18:27:32.271280+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "sent_at": "2026-09-29T18:27:32.271280+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
       "sent_at": "2026-09-30T18:16:46.044162+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
       "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
       "sent_at": "2026-10-12T21:33:17.039348+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "sent_at": "2026-10-13T19:44:53.488883+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "sent_at": "2026-10-13T19:44:53.488883+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "sent_at": "2026-10-13T19:44:53.488883+00:00"
     }
   ]
 }
