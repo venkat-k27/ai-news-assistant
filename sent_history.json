@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "sent_at": "2026-10-01T18:41:50.181224+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "title": "Flow Engineering, Backed by Sequoia at a $750M Valuation, Brings AI Agents to Hardware Design",
-      "sent_at": "2026-10-01T18:41:50.181224+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "title": "Amazon Web Services' Strand Labs Releases Strands Decider 2B",
-      "sent_at": "2026-10-01T18:41:50.181224+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/02/apple-says-it-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
       "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
       "sent_at": "2026-10-02T18:12:45.960223+00:00"
@@ -224,6 +209,21 @@
       "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
       "title": "Researchers use AI to design proteins that cut up other proteins",
       "sent_at": "2026-10-15T17:36:00.357726+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "sent_at": "2026-10-16T17:10:16.679498+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "sent_at": "2026-10-16T17:10:16.679498+00:00"
+    },
+    {
+      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "sent_at": "2026-10-16T17:10:16.679498+00:00"
     }
   ]
 }
