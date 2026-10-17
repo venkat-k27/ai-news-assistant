@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/02/apple-says-it-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
-      "sent_at": "2026-10-02T18:12:45.960223+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "sent_at": "2026-10-02T18:12:45.960223+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "title": "With most information hidden, the game Stratego had stumped AI\u2014until now",
-      "sent_at": "2026-10-02T18:12:45.960223+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
       "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
       "sent_at": "2026-10-03T16:59:05.237839+00:00"
@@ -224,6 +209,21 @@
       "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "sent_at": "2026-10-16T17:10:16.679498+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/10/arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "sent_at": "2026-10-17T16:08:21.068948+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "sent_at": "2026-10-17T16:08:21.068948+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-want-to-reason-with-images-not-just-about-them/",
+      "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
+      "sent_at": "2026-10-17T16:08:21.068948+00:00"
     }
   ]
 }
