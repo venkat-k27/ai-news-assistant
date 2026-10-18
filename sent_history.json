@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
-      "sent_at": "2026-10-03T16:59:05.237839+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "sent_at": "2026-10-03T16:59:05.237839+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "sent_at": "2026-10-03T16:59:05.237839+00:00"
-    },
-    {
       "link": "https://huggingface.co/blog/microsoft/thinkingbox",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "sent_at": "2026-10-04T17:17:34.827327+00:00"
@@ -224,6 +209,21 @@
       "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-want-to-reason-with-images-not-just-about-them/",
       "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
       "sent_at": "2026-10-17T16:08:21.068948+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "sent_at": "2026-10-18T16:20:47.551841+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "sent_at": "2026-10-18T16:20:47.551841+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "sent_at": "2026-10-18T16:20:47.551841+00:00"
     }
   ]
 }
