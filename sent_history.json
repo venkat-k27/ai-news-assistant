@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "sent_at": "2026-10-04T17:17:34.827327+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "sent_at": "2026-10-04T17:17:34.827327+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
-      "sent_at": "2026-10-04T17:17:34.827327+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
       "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
       "sent_at": "2026-10-05T20:57:57.463775+00:00"
@@ -224,6 +209,21 @@
       "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "sent_at": "2026-10-18T16:20:47.551841+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "sent_at": "2026-10-19T19:00:35.029719+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "sent_at": "2026-10-19T19:00:35.029719+00:00"
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
+      "sent_at": "2026-10-19T19:00:35.029719+00:00"
     }
   ]
 }
