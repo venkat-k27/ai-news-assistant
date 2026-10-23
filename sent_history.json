@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "sent_at": "2026-10-08T19:08:52.033891+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-      "title": "Goodfire says its new \u2018inside-out\u2019 monitors catch rogue AI agents at a fraction of the cost",
-      "sent_at": "2026-10-08T19:08:52.033891+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "sent_at": "2026-10-08T19:08:52.033891+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost",
       "title": "Goodfire says its new \u2018inside-out\u2019 monitors catch rogue AI agents at a fraction of the cost",
       "sent_at": "2026-10-09T18:39:13.971327+00:00"
@@ -224,6 +209,21 @@
       "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
       "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
       "sent_at": "2026-10-22T17:51:20.571062+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-password/",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "sent_at": "2026-10-23T17:42:48.223930+00:00"
+    },
+    {
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "sent_at": "2026-10-23T17:42:48.223930+00:00"
+    },
+    {
+      "link": "https://openai.com/index/decisions-api",
+      "title": "Build more responsive apps with the Decisions API",
+      "sent_at": "2026-10-23T17:42:48.223930+00:00"
     }
   ]
 }
