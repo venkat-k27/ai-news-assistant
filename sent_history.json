@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost",
-      "title": "Goodfire says its new \u2018inside-out\u2019 monitors catch rogue AI agents at a fraction of the cost",
-      "sent_at": "2026-10-09T18:39:13.971327+00:00"
-    },
-    {
-      "link": "https://openai.com/index/sophos",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "sent_at": "2026-10-09T18:39:13.971327+00:00"
-    },
-    {
-      "link": "https://openai.com/index/asana-browser-agent",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "sent_at": "2026-10-09T18:39:13.971327+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
       "sent_at": "2026-10-10T17:38:49.967557+00:00"
@@ -224,6 +209,21 @@
       "link": "https://openai.com/index/decisions-api",
       "title": "Build more responsive apps with the Decisions API",
       "sent_at": "2026-10-23T17:42:48.223930+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+      "sent_at": "2026-10-24T16:26:04.449147+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "title": "Block\u2019s new voice model sounds eerily human",
+      "sent_at": "2026-10-24T16:26:04.449147+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-grok-s-ai-model-chooses-republicans-openais-picks-democrats/",
+      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+      "sent_at": "2026-10-24T16:26:04.449147+00:00"
     }
   ]
 }
