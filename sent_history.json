@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
-      "sent_at": "2026-10-11T17:54:13.804803+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "sent_at": "2026-10-11T17:54:13.804803+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "sent_at": "2026-10-11T17:54:13.804803+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
       "title": "Meta releases its first frontier model, Muse Wonder",
       "sent_at": "2026-10-12T21:33:17.039348+00:00"
@@ -224,6 +209,21 @@
       "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "title": "The hottest AI wearables and gadgets you should know about",
       "sent_at": "2026-10-25T16:57:39.877770+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "sent_at": "2026-10-26T19:01:35.944070+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "title": "Anthropic officially files for its public debut",
+      "sent_at": "2026-10-26T19:01:35.944070+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+      "sent_at": "2026-10-26T19:01:35.944070+00:00"
     }
   ]
 }
