@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "sent_at": "2026-10-12T21:33:17.039348+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "sent_at": "2026-10-12T21:33:17.039348+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "sent_at": "2026-10-12T21:33:17.039348+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
       "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
       "sent_at": "2026-10-13T19:44:53.488883+00:00"
@@ -224,6 +209,21 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
       "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
       "sent_at": "2026-10-26T19:01:35.944070+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "sent_at": "2026-10-27T18:33:17.140995+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "sent_at": "2026-10-27T18:33:17.140995+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "sent_at": "2026-10-27T18:33:17.140995+00:00"
     }
   ]
 }
