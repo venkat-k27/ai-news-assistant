@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "sent_at": "2026-10-15T17:36:00.357726+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "sent_at": "2026-10-15T17:36:00.357726+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-      "title": "Researchers use AI to design proteins that cut up other proteins",
-      "sent_at": "2026-10-15T17:36:00.357726+00:00"
-    },
-    {
       "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
       "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
       "sent_at": "2026-10-16T17:10:16.679498+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
       "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
       "sent_at": "2026-10-28T18:39:50.948493+00:00"
+    },
+    {
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "title": "We urgently need to monitor AI agents\u2019 actions in real time",
+      "sent_at": "2026-10-29T18:47:49.789382+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "sent_at": "2026-10-29T18:47:49.789382+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "sent_at": "2026-10-29T18:47:49.789382+00:00"
     }
   ]
 }
