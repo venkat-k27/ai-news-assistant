@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-      "sent_at": "2026-10-16T17:10:16.679498+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "sent_at": "2026-10-16T17:10:16.679498+00:00"
-    },
-    {
-      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "sent_at": "2026-10-16T17:10:16.679498+00:00"
-    },
-    {
       "link": "https://arstechnica.com/security/2026/10/arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "sent_at": "2026-10-17T16:08:21.068948+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
       "title": "Microsoft recorded $10 billion in revenue from OpenAI",
       "sent_at": "2026-10-29T18:47:49.789382+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "sent_at": "2026-10-30T18:24:48.336488+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "sent_at": "2026-10-30T18:24:48.336488+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "title": "Thousands of \u201cghost students\u201d use AI to steal millions in student loans, DOJ says",
+      "sent_at": "2026-10-30T18:24:48.336488+00:00"
     }
   ]
 }
