@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://arstechnica.com/security/2026/10/arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "sent_at": "2026-10-17T16:08:21.068948+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "sent_at": "2026-10-17T16:08:21.068948+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-want-to-reason-with-images-not-just-about-them/",
-      "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
-      "sent_at": "2026-10-17T16:08:21.068948+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "sent_at": "2026-10-18T16:20:47.551841+00:00"
@@ -209,6 +194,21 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
       "title": "Thousands of \u201cghost students\u201d use AI to steal millions in student loans, DOJ says",
       "sent_at": "2026-10-30T18:24:48.336488+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "sent_at": "2026-10-31T17:30:17.334744+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "title": "Google\u2019s first data center satellite is online and writing poetry",
+      "sent_at": "2026-10-31T17:30:17.334744+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
+      "sent_at": "2026-10-31T17:30:17.334744+00:00"
     }
   ]
 }
