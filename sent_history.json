@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "sent_at": "2026-10-19T19:00:35.029719+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "sent_at": "2026-10-19T19:00:35.029719+00:00"
-    },
-    {
-      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
-      "sent_at": "2026-10-19T19:00:35.029719+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
       "sent_at": "2026-10-20T17:47:26.313238+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
       "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
       "sent_at": "2026-11-01T18:15:36.905178+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
+      "sent_at": "2026-11-02T22:09:03.222872+00:00"
+    },
+    {
+      "link": "https://openai.com/index/qodo-codex-plugin",
+      "title": "Qodo builds context into AI code review with Codex",
+      "sent_at": "2026-11-02T22:09:03.222872+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "sent_at": "2026-11-02T22:09:03.222872+00:00"
     }
   ]
 }
