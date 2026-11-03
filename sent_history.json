@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
-      "sent_at": "2026-10-20T17:47:26.313238+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "sent_at": "2026-10-20T17:47:26.313238+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "title": "Microsoft says AI agents are like insider threats as \u2018frontier models can\u2019t be trusted\u2019",
-      "sent_at": "2026-10-20T17:47:26.313238+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
       "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
       "sent_at": "2026-10-21T17:54:27.845555+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
       "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
       "sent_at": "2026-11-02T22:09:03.222872+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "sent_at": "2026-11-03T19:57:38.218151+00:00"
+    },
+    {
+      "link": "https://huggingface.co/blog/allenai/statebench",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "sent_at": "2026-11-03T19:57:38.218151+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+      "sent_at": "2026-11-03T19:57:38.218151+00:00"
     }
   ]
 }
