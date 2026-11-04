@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
-      "sent_at": "2026-10-21T17:54:27.845555+00:00"
-    },
-    {
-      "link": "https://openai.com/index/openai-models-google-cloud",
-      "title": "OpenAI models are coming to Google Cloud",
-      "sent_at": "2026-10-21T17:54:27.845555+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "title": "Google has joined Amazon in attacking Nvidia\u2019s stronghold with AI app developers",
-      "sent_at": "2026-10-21T17:54:27.845555+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raised-15b-days-after-us-restrictions/",
       "title": "DeepSeek reportedly raises $15B days after US restrictions",
       "sent_at": "2026-10-22T17:51:20.571062+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
       "sent_at": "2026-11-03T19:57:38.218151+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "title": "Anthropic is working on a system to prove AI models\u2019 identity",
+      "sent_at": "2026-11-04T20:16:59.897728+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "sent_at": "2026-11-04T20:16:59.897728+00:00"
+    },
+    {
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "sent_at": "2026-11-04T20:16:59.897728+00:00"
     }
   ]
 }
