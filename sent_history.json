@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-password/",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "sent_at": "2026-10-23T17:42:48.223930+00:00"
-    },
-    {
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "sent_at": "2026-10-23T17:42:48.223930+00:00"
-    },
-    {
-      "link": "https://openai.com/index/decisions-api",
-      "title": "Build more responsive apps with the Decisions API",
-      "sent_at": "2026-10-23T17:42:48.223930+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
       "sent_at": "2026-10-24T16:26:04.449147+00:00"
@@ -209,6 +194,21 @@
       "link": "https://techcrunch.com/2026/11/05/axiom-math-want-to-keep-ai-slop-out-of-mathematics/",
       "title": "Axiom Math wants to keep AI slop out of mathematics",
       "sent_at": "2026-11-05T20:28:12.162137+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "sent_at": "2026-11-06T19:50:48.043491+00:00"
+    },
+    {
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "title": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science",
+      "sent_at": "2026-11-06T19:50:48.043491+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "sent_at": "2026-11-06T19:50:48.043491+00:00"
     }
   ]
 }
