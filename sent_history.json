@@ -1,36 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-      "sent_at": "2026-10-25T16:57:39.877770+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-      "sent_at": "2026-10-25T16:57:39.877770+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "sent_at": "2026-10-25T16:57:39.877770+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "sent_at": "2026-10-26T19:01:35.944070+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "title": "Anthropic officially files for its public debut",
-      "sent_at": "2026-10-26T19:01:35.944070+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-      "sent_at": "2026-10-26T19:01:35.944070+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
       "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
       "sent_at": "2026-10-27T18:33:17.140995+00:00"
@@ -209,6 +179,21 @@
       "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
       "sent_at": "2026-11-07T17:56:42.486315+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "title": "Claude Code settings files expose thousands of secrets on GitHub",
+      "sent_at": "2026-11-09T22:52:22.987695+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+      "sent_at": "2026-11-09T22:52:22.987695+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "sent_at": "2026-11-09T22:52:22.987695+00:00"
     }
   ]
 }
