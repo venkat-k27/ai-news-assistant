@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "sent_at": "2026-10-28T18:39:50.948493+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "sent_at": "2026-10-28T18:39:50.948493+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "sent_at": "2026-10-28T18:39:50.948493+00:00"
-    },
-    {
       "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "title": "We urgently need to monitor AI agents\u2019 actions in real time",
       "sent_at": "2026-10-29T18:47:49.789382+00:00"
@@ -194,6 +179,21 @@
       "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
       "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
       "sent_at": "2026-11-10T20:12:39.459032+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "sent_at": "2026-11-11T19:59:53.064330+00:00"
+    },
+    {
+      "link": "https://huggingface.co/blog/token-pooling",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "sent_at": "2026-11-11T19:59:53.064330+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "title": "Databricks\u2019 new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "sent_at": "2026-11-11T19:59:53.064330+00:00"
     }
   ]
 }
