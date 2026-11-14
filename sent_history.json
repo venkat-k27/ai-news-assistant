@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "sent_at": "2026-10-31T17:30:17.334744+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "title": "Google\u2019s first data center satellite is online and writing poetry",
-      "sent_at": "2026-10-31T17:30:17.334744+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
-      "sent_at": "2026-10-31T17:30:17.334744+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
       "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
       "sent_at": "2026-11-01T18:15:36.905178+00:00"
@@ -194,6 +179,21 @@
       "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
       "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
       "sent_at": "2026-11-13T20:19:30.217095+00:00"
+    },
+    {
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "sent_at": "2026-11-14T18:38:39.190002+00:00"
+    },
+    {
+      "link": "https://huggingface.co/blog/allenai/xybench",
+      "title": "XYBench: Helping with the problem behind the question",
+      "sent_at": "2026-11-14T18:38:39.190002+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "sent_at": "2026-11-14T18:38:39.190002+00:00"
     }
   ]
 }
