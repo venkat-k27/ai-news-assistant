@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "sent_at": "2026-11-01T18:15:36.905178+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "sent_at": "2026-11-01T18:15:36.905178+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
-      "sent_at": "2026-11-01T18:15:36.905178+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
       "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
       "sent_at": "2026-11-02T22:09:03.222872+00:00"
@@ -194,6 +179,21 @@
       "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
       "sent_at": "2026-11-14T18:38:39.190002+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "title": "Where was Nvidia\u2019s security team?",
+      "sent_at": "2026-11-15T19:14:16.203900+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "sent_at": "2026-11-15T19:14:16.203900+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+      "sent_at": "2026-11-15T19:14:16.203900+00:00"
     }
   ]
 }
