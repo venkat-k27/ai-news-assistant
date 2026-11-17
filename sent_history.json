@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "sent_at": "2026-11-03T19:57:38.218151+00:00"
-    },
-    {
-      "link": "https://huggingface.co/blog/allenai/statebench",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "sent_at": "2026-11-03T19:57:38.218151+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
-      "sent_at": "2026-11-03T19:57:38.218151+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "title": "Anthropic is working on a system to prove AI models\u2019 identity",
       "sent_at": "2026-11-04T20:16:59.897728+00:00"
@@ -194,6 +179,21 @@
       "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-vulnerable-networks-in-under-three-hours/",
       "title": "FBI says Artex AI open source hacking tool used to breach networks in \u2018under three hours\u2019",
       "sent_at": "2026-11-16T22:44:08.114771+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "sent_at": "2026-11-17T21:30:01.887574+00:00"
+    },
+    {
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "sent_at": "2026-11-17T21:30:01.887574+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "sent_at": "2026-11-17T21:30:01.887574+00:00"
     }
   ]
 }
