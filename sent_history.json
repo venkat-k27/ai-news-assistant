@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "sent_at": "2026-11-07T17:56:42.486315+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "sent_at": "2026-11-07T17:56:42.486315+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "sent_at": "2026-11-07T17:56:42.486315+00:00"
-    },
-    {
       "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
       "title": "Claude Code settings files expose thousands of secrets on GitHub",
       "sent_at": "2026-11-09T22:52:22.987695+00:00"
@@ -179,6 +164,21 @@
       "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
       "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
       "sent_at": "2026-11-20T20:56:07.093748+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "sent_at": "2026-11-21T19:56:00.581901+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "sent_at": "2026-11-21T19:56:00.581901+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "sent_at": "2026-11-21T19:56:00.581901+00:00"
     }
   ]
 }
