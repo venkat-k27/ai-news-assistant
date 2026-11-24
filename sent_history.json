@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-      "title": "Claude Code settings files expose thousands of secrets on GitHub",
-      "sent_at": "2026-11-09T22:52:22.987695+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
-      "sent_at": "2026-11-09T22:52:22.987695+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "sent_at": "2026-11-09T22:52:22.987695+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
       "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
       "sent_at": "2026-11-10T20:12:39.459032+00:00"
@@ -194,6 +179,21 @@
       "link": "https://openai.com/index/perplexity-and-intelligence/",
       "title": "Perplexity and Intelligence",
       "sent_at": "2026-11-22T20:08:26.735892+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepare-to-sell-trainium-chips/",
+      "title": "Amazon snaps up Decart\u2019s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "sent_at": "2026-11-24T00:35:23.595182+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "sent_at": "2026-11-24T00:35:23.595182+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "sent_at": "2026-11-24T00:35:23.595182+00:00"
     }
   ]
 }
