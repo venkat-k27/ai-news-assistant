@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-      "title": "Google DeepMind just mathematically verified key parts of Signal",
-      "sent_at": "2026-11-11T19:59:53.064330+00:00"
-    },
-    {
-      "link": "https://huggingface.co/blog/token-pooling",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "sent_at": "2026-11-11T19:59:53.064330+00:00"
-    },
-    {
-      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "title": "Databricks\u2019 new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "sent_at": "2026-11-11T19:59:53.064330+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
       "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
       "sent_at": "2026-11-12T20:38:44.634974+00:00"
@@ -194,6 +179,21 @@
       "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
       "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
       "sent_at": "2026-11-24T22:54:27.864322+00:00"
+    },
+    {
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "sent_at": "2026-11-25T22:08:22.547100+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "title": "State AGs fight Character.AI\u2019s plan to auction off users\u2019 private chats",
+      "sent_at": "2026-11-25T22:08:22.547100+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "title": "Even the best AI agents struggle with everyday life",
+      "sent_at": "2026-11-25T22:08:22.547100+00:00"
     }
   ]
 }
