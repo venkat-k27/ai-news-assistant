@@ -1,21 +1,6 @@
 {
   "sent": [
     {
-      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
-      "sent_at": "2026-11-12T20:38:44.634974+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "sent_at": "2026-11-12T20:38:44.634974+00:00"
-    },
-    {
-      "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-      "title": "Taiwan\u2019s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "sent_at": "2026-11-12T20:38:44.634974+00:00"
-    },
-    {
       "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
       "sent_at": "2026-11-13T20:19:30.217095+00:00"
@@ -194,6 +179,21 @@
       "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "title": "Even the best AI agents struggle with everyday life",
       "sent_at": "2026-11-25T22:08:22.547100+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "sent_at": "2026-11-26T22:07:03.122557+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "sent_at": "2026-11-26T22:07:03.122557+00:00"
+    },
+    {
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "title": "S&P considers Nvidia credit downgrade over governance and \u2018key man\u2019 risks",
+      "sent_at": "2026-11-26T22:07:03.122557+00:00"
     }
   ]
 }
